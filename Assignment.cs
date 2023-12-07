@@ -11,5 +11,6 @@ namespace project1
      public string Age1 {get;set;}
       public string Age2 {get;set;}
       public string Ageg {get;set;}
+      //public string Age5 {get;set;}
     }
 }
